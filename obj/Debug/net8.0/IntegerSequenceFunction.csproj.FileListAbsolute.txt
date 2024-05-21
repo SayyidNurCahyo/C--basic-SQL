@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Net\IntegerSequenceFunction\bin\Debug\net8.0\IntegerSequenceFunction.exe
+C:\Users\Lenovo\Net\IntegerSequenceFunction\bin\Debug\net8.0\IntegerSequenceFunction.deps.json
+C:\Users\Lenovo\Net\IntegerSequenceFunction\bin\Debug\net8.0\IntegerSequenceFunction.runtimeconfig.json
+C:\Users\Lenovo\Net\IntegerSequenceFunction\bin\Debug\net8.0\IntegerSequenceFunction.dll
+C:\Users\Lenovo\Net\IntegerSequenceFunction\bin\Debug\net8.0\IntegerSequenceFunction.pdb
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.AssemblyInfo.cs
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.dll
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\refint\IntegerSequenceFunction.dll
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.pdb
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\IntegerSequenceFunction.genruntimeconfig.cache
+C:\Users\Lenovo\Net\IntegerSequenceFunction\obj\Debug\net8.0\ref\IntegerSequenceFunction.dll
